@@ -5,7 +5,7 @@ MERN Stack Developer based in Karachi, Pakistan. Currently pursuing an Advanced 
 ### Current Work & Projects
 * **Cloud-Integrated Media Pipeline:** Developed an Express backend with TypeScript and Multer for secure file processing and handled cloud media optimization using ImageKit API.
 * **Student-Teacher Portal:** Working in a team environment to build a full-stack LMS system with robust user role management (Admin, Teacher, Student).
-* **Backend Security:** Currently learning identity management, focusing on data protection, password hashing using Bcrypt, and secure route handling.
+* **Backend Security & Auth:** Developed a production-ready identity management system using Node.js and TypeScript, featuring secure password hashing, JWT Access/Refresh token rotation, and automated OTP expiration via MongoDB TTL indexes.
 
 ### Technical Skillset
 * **Languages & Core:** JavaScript, TypeScript, HTML5, CSS3, ES6+
