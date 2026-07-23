@@ -1,4 +1,4 @@
-# Hi, I am Muhammad Safwan,
+# Hi, I am Muhammad Safwan
 
 I'm a MERN Stack Developer from Karachi, Pakistan and currently studying Software Engineering at Aptech.
 
